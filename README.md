@@ -1,4 +1,7 @@
-# Red Hat Partner Conference 2019 in Prag - Robo Hackathon PHP Module 
+# Repository moved to https://github.com/cloud-native-robotz-hackathon/starter-app-php
+
+
+## Red Hat Partner Conference 2019 in Prag - Robo Hackathon PHP Module 
 
 Please enter your config in "config.php"
 
